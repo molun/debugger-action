@@ -7,7 +7,7 @@ Interactive debugger for GitHub Actions
 ```
 steps:
 - name: Setup Debug Session
-  uses: P3TERX/debugger-action@master
+  uses: P3TERX/debugger-action@main
 ```
 
 In the log for the action you will see:
